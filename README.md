@@ -44,7 +44,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lisa-suprapto-89b5b2a9/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lisa-suprapto-89b5b2a9/"><img src="https://img.shields.io/badge/-EL-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cha.icha0601@gmail.com"><img src="https://img.shields.io/badge/-EL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
