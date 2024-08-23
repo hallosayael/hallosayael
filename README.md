@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lisa-suprapto-89b5b2a9/"><img src="https://img.shields.io/badge/-EL-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:cha.icha0601@gmail.com"><img src="https://img.shields.io/badge/-EL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/hallo_sayael"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="mailto:cha.icha0601@gmail.com"><img src="https://img.shields.io/badge/EL-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/hallo_sayael"><img src="https://img.shields.io/badge/@hallo_sayael-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </p>
 
