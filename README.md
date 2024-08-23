@@ -22,7 +22,8 @@
 ![Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
-![CorelDraw](https://img.shields.io/badge/CorelDRAW-000000.svg?style=for-the-badge&logo=CorelDRAW&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/CorelDRAW-000000.svg?style=for-the-badge&logo=CorelDRAW&logoColor=white)&nbsp;
+![Filmora](https://img.shields.io/badge/Wondershare%20Filmora-07273D.svg?style=for-the-badge&logo=Wondershare-Filmora&logoColor=white)
 
 ### 👩‍💻 &nbsp;IDE
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
@@ -51,12 +52,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/lisa-suprapto-89b5b2a9/"><img src="https://img.shields.io/badge/-EL-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cha.icha0601@gmail.com"><img src="https://img.shields.io/badge/-EL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/hallo_sayael"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 </p>
 
-### 🐍 &nbsp;That's How Commits move ...
-
-<div align="center">
-  <a href="https://github.com/hallosayael/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
